@@ -1,0 +1,6 @@
+{
+    "baseCondaPath": "",
+    "condaEnvPath": "JIP_env",
+    "pythonScript": "Image_Processing.py",
+    "operatingSystem": "Windows"
+}
