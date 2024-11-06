@@ -1,6 +1,6 @@
 {
     "baseCondaPath": "",
-    "condaEnvPath": "JIP_env",
+    "condaEnvPath": "Phoshphoenix_env",
     "pythonScript": "PhospheneGeneration.py",
     "operatingSystem": "Windows"
 }
